@@ -7,10 +7,14 @@ by providing a unied, interactive dashboard for data-driven campaign management
 
 This dashboard was built using the following tools and technologies:
 
--- Power Bi Desktop - Main data visualization platform used for report creation./n
+-- Power Bi Desktop - Main data visualization platform used for report creation.
+
 -- Power Query - Data transformation and cleaning layer for reshaping and preparing the data.
+
 -- DAX (Data Analysis Expressions) - Used for calculated measures, dynamic visulas, and conditional logic.
+
 -- Data Modeling - Relationships established among tables (ads, ad_Events, Users, Dynamic Measures and Calender table) to enable cross-filtering and aggregation.
+
 -- File Format - .pbix for development and .png for dashboard previews.
 
 Data Source - Data was imported from various sites including Meta and Kaggle.
